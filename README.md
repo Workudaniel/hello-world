@@ -1,2 +1,2 @@
 # hello-world
-Believe you can everything
+Believe you can do everything
